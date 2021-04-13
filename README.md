@@ -7,3 +7,8 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[JS](2.%20Add%20Two%20Numbers.js) |Medium|
 |2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[JS](3.%20Longest%20Substring%20Without%20Repeating%20Characters.js) |Medium|
 |6|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](Reverse%20Integer.py)|Easy|
+|8|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](Pallindrome%20Number.py)|Easy|
+|13|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](Longest%20Common%20Prefix.py)|Easy|
+|14|[3Sum](https://leetcode.com/problems/3sum)|[Java](15.%203Sum.java)|Medium|
+|18|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)| [JS](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.js)|Medium|
+19|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[JS](20.%20Valid%20Parentheses.js) [Python](Valid%20PArentheses.py)|Easy|
