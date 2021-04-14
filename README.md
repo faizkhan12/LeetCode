@@ -15,4 +15,4 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |20|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[JS](21.%20Merge%20Two%20Sorted%20Lists.js)|Easy|
 |22|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](Merge%20K%20sorted%20lists.py)|Hard|
 |25|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[JS](26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) [Python](Remove%20Duplicated%20from%20Sorted%20Array.py)|Easy|
-|26|[Remove Element](https://leetcode.com/problems/remove-element) | [Python](Remove%20Element.py)|[Note](026.%20Remove%20Element)|Easy|
+|26|[Remove Element](https://leetcode.com/problems/remove-element) | [Python](Remove%20Element.py)|Easy|
