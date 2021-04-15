@@ -16,3 +16,6 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |22|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](Merge%20K%20sorted%20lists.py)|Hard|
 |25|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[JS](26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) [Python](Remove%20Duplicated%20from%20Sorted%20Array.py)|Easy|
 |26|[Remove Element](https://leetcode.com/problems/remove-element) | [Python](Remove%20Element.py)|Easy|
+|34|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python](Search%20Insert%20Position.py)|Easy|
+|41|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[JS](42.%20Trapping%20Rain%20Water.js)|Hard|
+|47|[Rotate Image](https://leetcode.com/problems/rotate-image)| [Python](Rotate%20Image.py)|Medium|
