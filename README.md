@@ -19,3 +19,7 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |34|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python](Search%20Insert%20Position.py)|Easy|
 |41|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[JS](42.%20Trapping%20Rain%20Water.js)|Hard|
 |47|[Rotate Image](https://leetcode.com/problems/rotate-image)| [Python](Rotate%20Image.py)|Medium|
+|49|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[JS](50.%20Pow(x%2C%20n).js) [Python](50.%20Pow(x%2C%20n).py)|Medium|
+|55|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [Python](Merge%20Intervals.py)|Medium|
+|60|[Rotate List](https://leetcode.com/problems/rotate-list)|[JS](61.%20Rotate%20List.js)|Medium|
+|61|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Java](62.%20Unique%20Paths.java) [Python](unique%20paths.py)|Medium|
