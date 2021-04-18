@@ -23,3 +23,9 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |55|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [Python](Merge%20Intervals.py)|Medium|
 |60|[Rotate List](https://leetcode.com/problems/rotate-list)|[JS](61.%20Rotate%20List.js)|Medium|
 |61|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Java](62.%20Unique%20Paths.java) [Python](unique%20paths.py)|Medium|
+|65|[Plus One](https://leetcode.com/problems/plus-one)|[Python](Plus%20One.py)|Easy|
+|66|[Add Binary](https://leetcode.com/problems/add-binary)| [Python](Add%20Binary.py)|Easy|
+|68|[Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Python](Sqrt(x).py)|Easy|
+|69|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Python](Climbing%20Stairs.py)|Easy|
+|72|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[JS](73.%20Set%20Matrix%20Zeroes.js) [Python](73.%20Set%20Matrix%20Zeroes.py)|Medium|
+|74|[Sort Colors](https://leetcode.com/problems/sort-colors)| [Python](Sort%20Colors.py)|Medium|
