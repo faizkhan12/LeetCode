@@ -29,3 +29,6 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |69|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Python](Climbing%20Stairs.py)|Easy|
 |72|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[JS](73.%20Set%20Matrix%20Zeroes.js) [Python](73.%20Set%20Matrix%20Zeroes.py)|Medium|
 |74|[Sort Colors](https://leetcode.com/problems/sort-colors)| [Python](Sort%20Colors.py)|Medium|
+|77|[Subsets](https://leetcode.com/problems/subsets)|[Python](8.%20Subsets.py)|Medium|
+87|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[JS](88.%20Merge%20Sorted%20Array.js) | Easy|
+|91|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[JS](206.%20Reverse%20Linked%20List_iterative.js) [JS](206.%20Reverse%20Linked%20List_recursive.js)|Medium|
