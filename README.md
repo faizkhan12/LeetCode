@@ -36,3 +36,5 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |103|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python](Maximum%20Depth%20of%20a%20Binary%20Tree.py)|Easy|
 |104|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Java](105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)|Medium|
 |107|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Java](Converted%20Sorted%20Array%20to%20BST.java)|Easy|
+108|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[Java](Converted%20Sorted%20Array%20to%20BST.java)|Medium|
+|117|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[JS](118.%20Pascal's%20Triangle.js) [Python](118.%20Pascal's%20Triangle)|Easy|
