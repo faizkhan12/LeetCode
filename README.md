@@ -38,5 +38,5 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |107|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Java](Converted%20Sorted%20Array%20to%20BST.java)|Easy|
 108|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[Java](Converted%20Sorted%20Array%20to%20BST.java)|Medium|
 |117|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[JS](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) [Python](118.%20Pascal's%20Triangle)|Easy|
-|120|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[JS](120.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h) [Python](Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|Easy|
+|120|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[JS](120.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h) [Python](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|Easy|
 |124|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Python](Valid%20Pallindrome.py)|Easy|
