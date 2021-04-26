@@ -1,6 +1,7 @@
 # LeetCode
 Some of the questions I have attempted in Python/Java/Javascript.
 
+## Table Of Content
 |NO.|Title|Solution|Difficulty
 |---|-----|--------|----|
 |0|[Two Sum](https://leetcode.com/problems/two-sum)|[JS](1.%20Two%20Sum.js) [Python](Two%20Sum.py)|Easy|
