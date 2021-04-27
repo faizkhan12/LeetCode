@@ -41,3 +41,6 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |117|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[JS](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) [Python](118.%20Pascal's%20Triangle)|Easy|
 |120|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[JS](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) [Python](Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|Easy|
 |124|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Python](Valid%20Pallindrome.py)|Easy|
+|127|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Java](128.%20Longest%20Consecutive%20Sequence.java) [Python](128.%20Longest%20Consecutive%20Sequence.py)|Hard|
+|136|[Single Number II](https://leetcode.com/problems/single-number-ii)| [Python](Single%20Number.py)|Medium|
+|137|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[JS](138.%20Copy%20List%20with%20Random%20Pointer.js)|Medium|
