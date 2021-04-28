@@ -44,3 +44,5 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |127|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Java](128.%20Longest%20Consecutive%20Sequence.java) [Python](128.%20Longest%20Consecutive%20Sequence.py)|Hard|
 |136|[Single Number II](https://leetcode.com/problems/single-number-ii)| [Python](Single%20Number.py)|Medium|
 |137|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[JS](138.%20Copy%20List%20with%20Random%20Pointer.js)|Medium|
+|140|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[JS](141.%20Linked%20List%20Cycle.js)|Easy|
+|141|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[JS](142.%20Linked%20List%20Cycle%20II.js) |Medium|
