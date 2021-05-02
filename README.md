@@ -46,3 +46,5 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |137|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[JS](138.%20Copy%20List%20with%20Random%20Pointer.js)|Medium|
 |140|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[JS](141.%20Linked%20List%20Cycle.js)|Easy|
 |141|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[JS](142.%20Linked%20List%20Cycle%20II.js) |Medium|
+|145|[LRU Cache](https://leetcode.com/problems/lru-cache)|[JS](146.%20LRU%20Cache.js)|Hard|
+|159|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[JS](160.%20Intersection%20of%20Two%20Linked%20Lists.js) [Python](Intersection%20of%202%20Linked%20List.py)|Easy|
