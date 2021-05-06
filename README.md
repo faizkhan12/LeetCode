@@ -1,5 +1,5 @@
 # LeetCode
-Some of the questions I have attempted in Python/Java/Javascript.
+Some of the questions I have attempted in Python/Java/javascript.
 
 ## Table Of Content
 |NO.|Title|Solution|Difficulty
