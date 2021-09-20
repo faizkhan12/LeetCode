@@ -1,6 +1,7 @@
 # LeetCode
-Some of the questions I have attempted in Python/Java/Javascript.
+Some of the questions I have attempted in Python/Java/Javascript....
 
+## Table Of Content
 |NO.|Title|Solution|Difficulty
 |---|-----|--------|----|
 |0|[Two Sum](https://leetcode.com/problems/two-sum)|[JS](1.%20Two%20Sum.js) [Python](Two%20Sum.py)|Easy|
@@ -23,3 +24,27 @@ Some of the questions I have attempted in Python/Java/Javascript.
 |55|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [Python](Merge%20Intervals.py)|Medium|
 |60|[Rotate List](https://leetcode.com/problems/rotate-list)|[JS](61.%20Rotate%20List.js)|Medium|
 |61|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Java](62.%20Unique%20Paths.java) [Python](unique%20paths.py)|Medium|
+|65|[Plus One](https://leetcode.com/problems/plus-one)|[Python](Plus%20One.py)|Easy|
+|66|[Add Binary](https://leetcode.com/problems/add-binary)| [Python](Add%20Binary.py)|Easy|
+|68|[Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Python](Sqrt(x).py)|Easy|
+|69|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)| [Python](Climbing%20Stairs.py)|Easy|
+|72|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[JS](73.%20Set%20Matrix%20Zeroes.js) [Python](73.%20Set%20Matrix%20Zeroes.py)|Medium|
+|74|[Sort Colors](https://leetcode.com/problems/sort-colors)| [Python](Sort%20Colors.py)|Medium|
+|77|[Subsets](https://leetcode.com/problems/subsets)|[Python](8.%20Subsets.py)|Medium|
+87|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[JS](88.%20Merge%20Sorted%20Array.js) | Easy|
+|91|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[JS](206.%20Reverse%20Linked%20List_iterative.js) [JS](206.%20Reverse%20Linked%20List_recursive.js)|Medium|
+|97|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Java](Validate%20Binary%20Search%20Tree.java)|Medium|
+|103|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python](Maximum%20Depth%20of%20a%20Binary%20Tree.py)|Easy|
+|104|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Java](105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)|Medium|
+|107|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Java](Converted%20Sorted%20Array%20to%20BST.java)|Easy|
+108|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[Java](Converted%20Sorted%20Array%20to%20BST.java)|Medium|
+|117|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[JS](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) [Python](118.%20Pascal's%20Triangle)|Easy|
+|120|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[JS](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js) [Python](Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|Easy|
+|124|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Python](Valid%20Pallindrome.py)|Easy|
+|127|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Java](128.%20Longest%20Consecutive%20Sequence.java) [Python](128.%20Longest%20Consecutive%20Sequence.py)|Hard|
+|136|[Single Number II](https://leetcode.com/problems/single-number-ii)| [Python](Single%20Number.py)|Medium|
+|137|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[JS](138.%20Copy%20List%20with%20Random%20Pointer.js)|Medium|
+|140|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[JS](141.%20Linked%20List%20Cycle.js)|Easy|
+|141|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[JS](142.%20Linked%20List%20Cycle%20II.js) |Medium|
+|145|[LRU Cache](https://leetcode.com/problems/lru-cache)|[JS](146.%20LRU%20Cache.js)|Hard|
+|159|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[JS](160.%20Intersection%20of%20Two%20Linked%20Lists.js) [Python](Intersection%20of%202%20Linked%20List.py)|Easy|
